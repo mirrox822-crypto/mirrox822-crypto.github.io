@@ -6,7 +6,7 @@ const DOWNLOAD_CONFIG = {
     android: {
         enabled: true,
         googleDrive: {
-            url: "https://t.me/chillow/",
+            url: "https://drive.google.com/file/d/1vsqPNFA7OGyny80lUTeh8swmnM1Z4OFF/view?usp=drive_linkЯ",
             enabled: true
         },
         mediafire: {
@@ -30,7 +30,7 @@ const DOWNLOAD_CONFIG = {
 const translations = {
     ru: {
         update_text: "ДОСТУПНО ОБНОВЛЕНИЕ 2.04",
-        telegram_channel: "Пост в Telegram",
+        telegram_channel: "Скачать в Telegram",
         android_btn: "Android",
         windows_btn: "ПК (Windows)",
         android_title: "Скачать на Android",
@@ -74,7 +74,7 @@ const translations = {
     },
     en: {
         update_text: "UPDATE 2.04 AVAILABLE",
-        telegram_channel: "Telegram post",
+        telegram_channel: "Download in Telegram",
         android_btn: "Android",
         windows_btn: "PC (Windows)",
         android_title: "Download for Android",
