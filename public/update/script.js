@@ -7,11 +7,11 @@ const DOWNLOAD_CONFIG = {
         enabled: true,
         googleDrive: {
             url: "https://drive.google.com/file/d/1vsqPNFA7OGyny80lUTeh8swmnM1Z4OFF/view?usp=drive_linkЯ",
-            enabled: true
+            enabled: false
         },
         mediafire: {
-            url: "",
-            enabled: false
+            url: "https://www.mediafire.com/file/p9fcc6pqc882mco/2.04_OBT_F1.apk/file",
+            enabled: true
         }
     },
     windows: {
