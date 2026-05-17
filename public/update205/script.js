@@ -11,8 +11,8 @@ const DOWNLOAD_CONFIG = {
             isVisible: false
         },
         mediafire: {
-            url: "",
-            enabled: false,
+            url: "https://www.mediafire.com/file/xykx20wmfaptjtd/2.05_OBT.apk/file",
+            enabled: true,
             isVisible: true
         }
     },
@@ -24,8 +24,8 @@ const DOWNLOAD_CONFIG = {
             isVisible: false
         },
         mediafire: {
-            url: "",
-            enabled: false,
+            url: "https://www.mediafire.com/file/tsa3gyh2nidpmwt/2.05_OBT.zip/file",
+            enabled: true,
             isVisible: true
         }
     }
